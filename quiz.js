@@ -102,7 +102,7 @@ let questions = [
       {
         id: 10,
         question: "Which one of the following is the reason that users should log on with a username and password?",
-        answer: "Internet Service Provider",
+        answer: "To protect computers against unauthorised use.",
         options: [
           "To be aware of who is in the building.",
           "To check up on the time-keeping of users.",
